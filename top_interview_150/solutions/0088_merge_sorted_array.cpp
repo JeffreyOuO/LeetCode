@@ -4,8 +4,7 @@
  * Time Complexity: O(m+n)
  * Space Complexity: O(1)
  * Approach:
- *   Describe your key idea in 1-3 lines (semantic, not step-by-step).
- * Compare nums1[idx1] and nums2[idx2], place the larger value at nums1[writeIdx],
+ *   Compare nums1[idx1] and nums2[idx2], place the larger value at nums1[writeIdx],
  *   and move pointers backward. Continue until nums2 is exhausted. 
  *   (Remaining elements in nums1 are already in place.)
  */
