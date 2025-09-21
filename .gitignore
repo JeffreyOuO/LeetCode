@@ -1,0 +1,14 @@
+# C++
+*.o
+*.out
+*.exe
+build/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS/Editor
+.DS_Store
+.vscode/
